@@ -1,3 +1,5 @@
+<p align="center"> $${\color{red}The \space perfect \space way \space to \space weed \space out \space the \space bad \space friends \space from \space the \space good}$$
+  
 <p align="center"> <img src="https://github.com/user-attachments/assets/8e65de8e-61cc-41d5-8315-368afeb53b63" width="500" height="300">
 
 <!--
