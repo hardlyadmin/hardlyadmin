@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"> <img src="https://github.com/user-attachments/assets/8e65de8e-61cc-41d5-8315-368afeb53b63" width="500" height="300">
 
 <!--
 **hardlyadmin/hardlyadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
